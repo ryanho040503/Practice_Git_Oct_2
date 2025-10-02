@@ -11,6 +11,6 @@ package com.mycompany.inclasspraceticegit;
 public class InClassPraceticeGit {
 
     public static void main(String[] args) {
-        System.out.println("Practice version 1!");
+        System.out.println("Practice version 2!");
     }
 }
